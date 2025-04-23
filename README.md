@@ -49,4 +49,4 @@ make
 	•	Time quantum simulation for Round Robin
 	•	IO wait handling
 	•	Gantt chart visualization via terminal or file output
-Note: This project demonstrates understanding of data structures (heaps), process simulation, and low-level systems programming, aligning with core goals of ITU’s computer engineering curriculum.
+Note: This project was developed as part of an academic assignment under the **Faculty of Computer and Informatics Engineering** at **Istanbul Technical University (ITU)**.
